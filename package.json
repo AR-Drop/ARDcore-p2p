@@ -16,16 +16,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/underdarkskies/ARDcore-p2p.git"
+    "url": "https://github.com/wkibbler/ARDcore-p2p.git"
   },
   "dependencies": {
-    "ARDcore-lib": "underdarkskies/ARDcore-lib",
+    "ARDcore-lib": "wkibbler/ARDcore-lib",
     "bloom-filter": "^0.2.0",
-    "buffers": "underdarkskies/node-buffers",
+    "buffers": "wkibbler/node-buffers",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "ARDcore-build": "underdarkskies/ARDcore-build",
+    "ARDcore-build": "wkibbler/ARDcore-build",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
